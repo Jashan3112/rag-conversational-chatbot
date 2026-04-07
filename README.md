@@ -1,17 +1,17 @@
 AI Document Assistant using RAG
-📌 Overview
+Overview
 
 This project implements a Retrieval-Augmented Generation (RAG) based conversational chatbot that enables users to interact with documents in a natural, question-answering format.
 
 The system processes documents, converts them into embeddings, stores them in a vector database, and retrieves relevant context to generate accurate and context-aware responses.
 
-🚀 Features
-📄 Document-based Question Answering
-🔍 Semantic Search using Embeddings
-🧠 Context-Aware Conversations with Memory
-⚡ Real-time Response Generation
-🔗 End-to-End RAG Pipeline
-🏗️ Architecture
+ Features
+ Document-based Question Answering
+ Semantic Search using Embeddings
+ Context-Aware Conversations with Memory
+ Real-time Response Generation
+ End-to-End RAG Pipeline
+ Architecture
 
 The chatbot follows a modular RAG pipeline:
 
@@ -66,7 +66,7 @@ Privacy
 
 The system helps bridge the gap between technical AI research and user-friendly interaction.
 
-⚙️ Setup Instructions
+ Setup Instructions
 1. Clone the Repository
 git clone https://github.com/your-username/ai-document-assistant-rag.git
 cd ai-document-assistant-rag
@@ -83,7 +83,7 @@ GOOGLE_API_KEY=your_key_here
 
 4. Run the Project
 npm run start
-🧠 How It Works
+ How It Works
 Documents are split into chunks
 Each chunk is converted into embeddings
 When a user asks a question:
@@ -91,19 +91,19 @@ The system retrieves the most relevant chunks
 Passes them to the LLM
 Generates an accurate response based on context
 
-📈 Future Improvements
+ Future Improvements
 Persistent vector database (Pinecone / FAISS)
 Multi-document support
 UI integration (Streamlit / React)
 Advanced prompt engineering for better accuracy
 Ethical bias detection integration
 
-🎯 Key Learnings
+ Key Learnings
 Practical implementation of RAG architecture
 Working with LLMs + embeddings + vector search
 Understanding AI ethics integration in AI systems
 Building context-aware conversational systems
 
-👩‍💻 Author
+ Author
 
 Jashan
