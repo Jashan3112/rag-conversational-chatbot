@@ -64,7 +64,8 @@ The chatbot flow includes the following components:
 7. **Conversational Retrieval QA Chain**
    - Combines retriever, memory, and language model
    - Produces context-based answers
-   - <img width="1830" height="898" alt="Screenshot 2026-04-07 121804(2)" src="https://github.com/user-attachments/assets/6d491a7a-3921-4789-a226-7f8eb5306ca9" />
+   - <img width="1847" height="873" alt="rag(3)" src="https://github.com/user-attachments/assets/cdb3f611-08e8-4ea3-86d8-297ac1ea2826" />
+
 
 
 ---
